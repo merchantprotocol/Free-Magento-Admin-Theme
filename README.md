@@ -1,3 +1,5 @@
+# [Free Magento Theme @ Merchant Protocol](https://merchantprotocol.com/)
+
 ![Magento Admin Theme - Magento.com](http://i.imgur.com/9o7Dt70.png)
 
 ![Magento Admin Theme - Magento 2](http://i.imgur.com/gYzYTeI.png)
@@ -10,15 +12,7 @@
 
 ## Installation on Magento 1.7.x, 1.8.x, 1.9.x
 
-Install with [modgit](https://github.com/jreinke/modgit):
-
-    $ cd /path/to/magento
-    $ modgit init
-    $ modgit clone admin-theme https://github.com/jreinke/magento-admin-theme.git
-
-or download package manually:
-
-* Download latest version [here](https://github.com/jreinke/magento-admin-theme/archive/master.zip)
+* Download latest version [here](https://github.com/merchantprotocol/Free-Magento-Admin-Theme/master.zip)
 * Logout from admin
 * Unzip in Magento root folder
 * Clear cache
@@ -27,5 +21,3 @@ or download package manually:
 ## Usage
 
 Switch theme from dropdown added in footer.
-
-Other awesome Magento extensions available here [www.bubbleshop.net](https://www.bubbleshop.net/)
